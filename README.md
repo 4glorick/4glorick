@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 <head>
 <title>Por mais de uma rotação</title>
