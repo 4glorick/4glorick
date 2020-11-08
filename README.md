@@ -253,11 +253,6 @@ espero que goste, mozi
  </div>
  </div>
 </div></div>
-    </div>
-    <a href="https://i.postimg.cc/cLnCvS1Y/coracao-1.png"><img src="https://i.postimg.cc/cLnCvS1Y/coracao-1.png"></a>
-  </div>
-</div>
-
 <script>
 function showMenu(x) {
     document.getElementById("noowaymenu").style.display = "block";
