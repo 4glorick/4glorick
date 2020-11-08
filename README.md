@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>xat online chat. Profile for nature</title>
-<LINK REL="SHORTCUT ICON" href="//xat.com/web_gear/chat/icon.ico">
+<title>Por mais de uma rotação</title>
+<LINK REL="SHORTCUT ICON" href="//i.postimg.cc/cLnCvS1Y/coracao-1.png">
 <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <style>
 body {
@@ -84,9 +84,9 @@ div#noowayitems > a:hover {
  <img src="https://i.postimg.cc/pTZjTNKv/Webp-net-resizeimage-16.jpg" />
  <span>THE BIRTH OF VENUS</span>
  </div>
- <h2>H ♡ P E ; infj-selenophile 🌙</h2>
+ <h2>ERICK E GLOIA</h2>
  <p>
-think of it as a door, a door that is going to open up into a whole new world for you. & all you need to do is decide to go through it.
+amar você de longe é tão ruim
  <p>
 -
  <p>
@@ -95,12 +95,6 @@ think of it as a door, a door that is going to open up into a whole new world fo
  </div>
  <div class="jd-nav">
  <h2>browse ~</h2>
- <ul class="jd-block-menu">
- <li class="jd-item"><a class="jd-link-menu" href="https://forum.xat.com/profile/49620/"><span>forum</span></a></li>
- <li class="jd-item"><a class="jd-link-menu" href="https://xat.com/Help"><span>xat</span></a></li>
- <li class="jd-item"><a class="jd-link-menu" href="https://xat.me/nature"><span>love</span></a></li>
- <li class="jd-item"><a class="jd-link-menu" href="#jd-content-2"><span>gallery</span></a></li>
- </ul>
  </div>
  </div>
  <div class="jd-section">
@@ -260,7 +254,6 @@ espero que goste, mozi
  </div>
  </div>
 </div></div>
-
     </div>
     <a href="https://i.postimg.cc/cLnCvS1Y/coracao-1.png"><img src="https://i.postimg.cc/cLnCvS1Y/coracao-1.png"></a>
   </div>
