@@ -1,8 +1,25 @@
-### Olá, mozi
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>xat online chat. Profile for Shake</title>
+<LINK REL="SHORTCUT ICON" href="[//xat.com/web_gear/chat/icon.ico](https://xat.com/web_gear/chat/icon.ico)">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+body {
+/*padding:0px;
+margin: 0px 0px 0px 0px;*/
+FONT-SIZE: 12pt;
+FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+div#xatstyme {
+background:#0;
+color: #00;
+overflow: auto;
+}
+body {background: #424242}
+*{-webkit-user-select:none}
 
-<!--
-**4glorick/4glorick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+/** made by shake!! free to use pls credit me **/
 
 #a{
 width:540px;
